@@ -21,12 +21,14 @@ A CMOS-based 2:1 Multiplexer integrated with an XOR gate for real-time fault det
 - FPGA Systems
 - AI Hardware Accelerators
 
+## Repository Structure
+
+```text
 CMOS-MUX-XOR-Fault-Detection/
-│
 ├── README.md
 ├── Project_Report.pdf
-│
 └── images/
     ├── block_diagram.png
     ├── schematic.png
     └── simulation_graph.png
+```
